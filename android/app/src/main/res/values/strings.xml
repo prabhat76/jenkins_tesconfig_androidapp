@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vinita-electronics</string>
+    <string name="title_activity_main">vinita-electronics</string>
+    <string name="package_name">vinita.electronics</string>
+    <string name="custom_url_scheme">vinita.electronics</string>
+</resources>
